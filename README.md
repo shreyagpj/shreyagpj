@@ -1,90 +1,78 @@
 <div align="center">
 
-# Shreya Janorkar
-
-### Computer Science & Engineering Student
-
----
+<img src="banner.png" alt="Shreya Janorkar Banner" width="100%">
 
 </div>
 
-## About Me
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=shreyagpj&label=PROFILE+VIEWS&color=5A189A&style=for-the-badge"/>
 
-Computer Science student focused on building strong fundamentals in systems and software development.  
-Main interests lie in understanding how things work under the hood and applying them through projects.
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 
-- Focus Areas: DSA, Low Level Design, MERN Stack, Databases  
-- Currently exploring system design fundamentals and backend architecture  
-- Passionate about building practical, scalable projects  
 
----
 
-## Tech Stack
+</div>
 
-**Languages**
-C, C++, JavaScript
+<b><h2>⚜️ ABOUT ME</h2></b>
 
-**Web Development**
-HTML, CSS, Tailwind, React (basic), Node.js, Express.js, EJS
+Computer Science Engineering student passionate about building software and solving problems. Currently focused on MERN Stack development while strengthening Core Computer Science fundamentals.
 
-**Backend & Auth**
-JWT, Passport.js, REST APIs
+✦ Full-Stack Development
 
-**Databases**
-MySQL, DBMS concepts
+✦ Data Structures & Algorithms
 
-**Core CS**
-Data Structures & Algorithms, Operating Systems, Computer Networks, OOP
+✦ Core Computer Science
 
-**Tools**
-Git, GitHub, Terminal, VS Code
+Currently working on a CNN-based image classification project during a Summer Internship and project-based learning.
 
 ---
 
-## Projects
+## ⚜️ TECH STACK
 
-**MultiProg OS Simulator**
-Multiprogramming OS simulation in C++ with scheduling, paging, memory management, and thrashing detection.
+### ✦ Languages & Core
 
-**Emergency Vehicle Allocation System**
-DSA-based system for optimizing allocation and routing of emergency vehicles.
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
 
-**Bank Authentication System**
-OOP-based secure authentication system with user management and validation flows.
+### ✦ Frontend
 
-**Wanderlust (MERN Stack Project)**
-Full-stack travel listing platform with authentication, CRUD operations, and dynamic UI.
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 
-**CNN Model Comparison (Ongoing)**
-Comparative study of two CNN architectures for disease detection and classification accuracy analysis.
+### ✦ Backend & Databases
 
-**DBMS Project (Planned)**
-Design and implementation of a relational database system with real-world schema modeling.
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" />
 
----
 
-## Focus Areas
+### ✦ Tools
 
-Low Level Design  
-System Design Basics  
-Backend Development  
-Database Design  
-Problem Solving with DSA  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
-## GitHub Stats
+## ⚜️ GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyajanorkar&show_icons=true&theme=tokyonight" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyagpj&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyajanorkar&theme=tokyonight" width="48%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyagpj&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
----
+<br>
 
-## Style Note
+## ⚜️ CONTRIBUTION HEATMAP
 
-This profile reflects a focus on clarity, systems thinking, and consistent project building over time.
+<div align="center">
+
+<img src="https://ghchart.rshah.org/5A189A/shreyagpj" alt="GitHub Contribution Heatmap" />
+
+</div>
+
+<br>
+
+<br>
+
