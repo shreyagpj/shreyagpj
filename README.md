@@ -62,17 +62,5 @@ Currently working on a CNN-based image classification project during a Summer In
 
 </div>
 
-<br>
 
-## ⚜️ CONTRIBUTION HEATMAP
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/5A189A/shreyagpj" alt="GitHub Contribution Heatmap" />
-
-</div>
-
-<br>
-
-<br>
 
