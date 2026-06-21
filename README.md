@@ -8,7 +8,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=shreyagpj&label=PROFILE+VIEWS&color=5A189A&style=for-the-badge"/>
 
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:janorkarsp24.comp@coeptech.ac.in">
   <img src="https://img.shields.io/badge/Contact_Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
